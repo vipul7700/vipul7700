@@ -1,13 +1,18 @@
 # Hi there, I'm Vipul Priyadarshi! 👋
 
 ### 🚀 About Me
-- 🎓 I'm currently a BTech student in Computer Science and Engineering at **IIIT G**.
-- 💻 I love solving problems, especially those related to algorithms, data structures, and competitive programming.
-- 📚 I enjoy learning about new technologies, building projects, and constantly improving my skills.
-- 🌱 Currently exploring more advanced topics in **Artificial Intelligence** and **Machine Learning**.
+- 🎓 BTech student in Computer Science and Engineering at **IIIT Guwahati**
+- 💻 Passionate about problem solving, backend systems, and scalable software architecture
+- 🤖 Currently working on intelligent systems involving **AI agents**, **LLMs**, and **autonomous workflows**
+- 🧠 Exploring advanced concepts in **Artificial Intelligence**, **Machine Learning**, and **Distributed Systems**
+- ⚡ Strong interest in building systems that can reason, adapt, and automate complex tasks
+- 📚 Love learning new technologies, building products, and continuously improving engineering skills
+
+### 🛠️ Interests
+`Artificial Intelligence` `Agentic Systems` `Backend Engineering` `Distributed Systems` `Machine Learning` `System Design` `Competitive Programming`
 
 ### 🌐 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/vipul-priyadarshi-20aa38258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- LinkedIn: https://www.linkedin.com/in/vipul-priyadarshi-20aa38258
 - Email: vipulpriyadarshi770@gmail.com
 
 <!---
