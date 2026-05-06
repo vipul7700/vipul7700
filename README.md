@@ -1,7 +1,7 @@
 # Hi there, I'm Vipul Priyadarshi! 👋
 
 ### 🚀 About Me
-- 🎓 BTech student in Computer Science and Engineering at **IIIT Guwahati**
+- 🎓 B.Tech in Computer Science and Engineering from **IIIT Guwahati**
 - 💻 Passionate about problem solving, backend systems, and scalable software architecture
 - 🤖 Currently working on intelligent systems involving **AI agents**, **LLMs**, and **autonomous workflows**
 - 🧠 Exploring advanced concepts in **Artificial Intelligence**, **Machine Learning**, and **Distributed Systems**
